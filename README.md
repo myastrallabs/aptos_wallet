@@ -15,5 +15,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 ## Aptos Wallet's
 
 - [x] Petra
-- [ ] Martain
-- [ ] Starmask
+- [x] Martain
+- [x] Starmask
