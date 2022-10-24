@@ -8,8 +8,7 @@ config :aptos_wallet, AptosWalletWeb.Endpoint,
   server: false
 
 # In test we don't send emails.
-config :aptos_wallet, AptosWallet.Mailer,
-  adapter: Swoosh.Adapters.Test
+config :aptos_wallet, AptosWallet.Mailer, adapter: Swoosh.Adapters.Test
 
 # Print only warnings and errors during test
 config :logger, level: :warn
